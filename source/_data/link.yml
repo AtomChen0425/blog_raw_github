@@ -1,0 +1,21 @@
+# - class_name: 友情链接
+#   class_desc: 那些人，那些事
+#   link_list:
+#     - name: 来吧，甜蜜的死亡
+#       link: http://sweetdeath.life/
+#       avatar: https://s1.328888.xyz/2022/04/28/AuARC.jpg
+#       descr: jsbluekitty 的博客
+- class_name: Creations
+  class_desc: Some Social Media
+  link_list:
+    - name: Mipai
+      link: http://www.mepai.me/lovelygaogao
+      avatar: /img/mipai.png
+      descr: Photography 
+- class_name: Website
+  class_desc: Useful Website
+  link_list:
+    - name: SQLBolt
+      link: https://sqlbolt.com/
+      avatar: https://sqlbolt.com/cs/images/favicon.png
+      descr: SQL Learning
