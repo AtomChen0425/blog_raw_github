@@ -120,6 +120,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/AtomChen0425/AtomChen0425.github.io.git
+  repo: git@atom:AtomChen0425/AtomChen0425.github.io.git
   branch: master
-  token: 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
