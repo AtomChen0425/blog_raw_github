@@ -837,7 +837,7 @@ inject:
     - <meta name="baidu-site-verification" content="code-unKEYLRHwi" />
     - <script type="text/javascript" src='/js/skiphttps.js'></script>
   bottom:
-    - <div class="aplayer no-destroy" data-id="7422861869" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"></div>
+    - <div class="aplayer no-destroy" data-id="10077489370" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"></div>
     # - <script type="text/javascript">ap.play()</script>
     
     #- <script type="text/javascript" src="/blog/js/music.js"></script>
