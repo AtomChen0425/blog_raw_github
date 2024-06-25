@@ -7,7 +7,8 @@ index_img:
 cover:
 description: Quize review
 ---
-# Midterm review
+# 2024 winter
+## Midterm review
 
 1. Definition of **entrepreneurship**  
 **Entrepreneurship** Is:  
@@ -140,7 +141,7 @@ Entrepreneurs’ principal job is to bring about purposeful change within an org
     + **Elaboration** involves moving the concept forward if it survives the evaluation stage.
 
 
-# Final Exam
+## Final Exam
 
 1. **Marketing mix**: the ingredients that go into a marketing program:  
 + Product (satisfy a want)
@@ -326,3 +327,131 @@ without trade `Autarky`  spend 750h prodcing cell phone and 250 h producting tab
 with trade work 100h
 
 ![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240417/image.3k7su5ip6y.webp)
+
+# 2024 Summer
+
+## technology and the success of the startup
+
+## innovation: definition
+
+Innovation= Invention+ commercialization
+
+## innovation: incremental innovation v.s. radical innovation  
+1. Incremental innovation:  
+    **Pros:**  
+    **Low Risk:** Because it builds upon existing products, services, or processes. The company can leverage its existing knowledge and infrastructure.  
+    **Stability:** Since the changes are gradual, incremental innovation can provide a sense of stability for both the organization and its employees.  
+    **Customer Acceptance:** Customers may find it easier to adapt to incremental changes, as they are already familiar with the existing product or service. This can lead to higher customer acceptance and satisfaction.  
+    **Cons:**  
+    **Competitive Pressure:** In fast-paced industries, relying solely on incremental innovation may expose a company to competitive pressures from disruptors who pursue more radical approaches.  
+2. **Radical innovation**  
+    **Pros:**  
+    **Competition advantage:** Being a first mover in a new and transformative space can provide a significant competitive advantage. Radical innovators often set the industry standards and gain market leadership.  
+    **Market Disruption:** Radical innovation has the potential to disrupt existing markets and create entirely new ones. It allows companies to beyond competitors and establish a unique competitive position.  
+    **Cons:**
+    **High Risk:**Radical innovation comes with high levels of risk. There's uncertainty regarding market acceptance, technological feasibility, and the potential for significant financial investments without guaranteed returns.  
+    **Failure Rate:** Radical innovations have a higher failure rate compared to incremental innovations. The uncertainty involved means that not all radical ideas will translate into successful products, services, or processes. 
+
+## innovation: S-Curve
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240222/image.3uukgpkeci.webp)
+
+## extent of creativity, innovation, and critical thinking: compare market structure 
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240416/image.1sety40mwx.webp)  
+## business and society: demand, supply, equilibrium
+
+**Demand**: For a particular good or service, the quantities that the individuals and firms are willing and able to buy at any given price.  
+
+**Supply**: For a particular good or service, the quantity that producers are willing and able to supply to the market at any given price.  
+
+**Equilibrium**: 
+1. **Equilibrium** in a market occurs when the price balances the plans of buyers and sellers. 
+2. **Equilibrium Price** is the price at which quantity demanded equals quantity supplied. 
+3. **Equilibrium Quantity** is the quantity bought and sold at the equilibrium price.  
+
+
+## business and society: business decision making
+
+IF THE MARGINAL BENEFIT EXCEEDS THE MARGINAL COST. DO IT.
+
+## why creativity, innovation, and critical thinking: four categories of goods
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240622/image.13ln1donyq.webp)
+
+## why creativity, innovation, and critical thinking: factors of production
+
+1. **Labor:** all types of work, from the part-time labor of teenagers working at McDonald’s to the work of senior managers in large corporations. 
+2. **Capital:** physical capital, such as computers, office buildings, and machine tools, used to produce other goods. 
+3. **Natural resources**: land, water, oil, iron ore, and other raw materials (or “gifts of nature”) that are used in producing goods. 
+4. An entrepreneur is someone who operates a business. **Entrepreneurial ability** is the ability to bring together the other factors of production to successfully produce and sell goods and services.
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240624/image.7w6oqm7wyn.webp)
+
+## why creativity, innovation, and critical thinking: factors of production
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240622/image.3rb3bqk33l.webp)
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240624/image.491533u36o.webp)
+## why creativity, innovation, and critical thinking: production function
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240622/image.3d4nkvcz17.webp)
+
+## why creativity, innovation, and critical thinking: diminishing returns
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240622/image.8vms10nzgu.webp)  
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240622/image.1sewlejagr.webp)  
+
+## creativity: opportunity cost  
+The highest-valued alternative that must be given up to engage in an activity  
+
+Opportunity costs are not always easily observed,but should always be taken into account in production decisions.
+
+## critical thinking: externalities  
+But pollution is an example of an externality : a benefit or cost that affects someone who is not directly involved in the production or consumption of a good or service. • Think of an externality like a side-effect.
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240622/image.1hs2s96skw.webp)
+
+## critical thinking: externalities and Pigouvian tax  
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240622/image.9nznir9wrp.webp)  
+
+## creativity: production possibilities frontiers  
+
+A production possibilities frontier (PPF) is a curve showing the maximum attainable combinations of two goods that can be produced with available resources and current 
+technology.
+
+## extent of creativity, innovation, and critical thinking: market structure – monopolistic competitive market
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240623/image.67xbs213r2.webp)  
+**Monopolistic competition** is a market structure in which barriers to entry are low and many firms compete by selling **similar**, but **not identical**, products.     
+The key feature here is that the products that monopolistically competitive firms sell are differentiated from one another in some way.    
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240416/image.3ye8jwm4ok.webp)   
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240416/image.lvipj9i5c.webp)  
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240416/image.26l9p074v9.webp)    
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240417/image.3go6wmx4mb.webp)  
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240418/image.3nretkslsz.webp)
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240417/image.86tfv1frg0.webp)  
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240417/image.lv4jobb9.webp)  
+
+## extent of creativity, innovation, and critical thinking: market structure – perfectly competitive market
+
+ P      = MC            in perfect competition.  
+    (price) (marginal cost)  
+    Marginal revenue (MR) is the increase in total revenue resulting from a one-unit increase in output.    
+
++ There are many buyers and sellers,  
++ All firms sell identical products, and  
++ There are no barriers to new firms entering the market   
+
+The first and second conditions imply that perfectly competitive firms are **price takers**: they are unable to affect the market price. This is because they are tiny relative to the market and sell exactly the same product as everyone else.   
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240416/image.101ygeqdr7.webp)  
+
+ATC(Average Total Cost)   
+
++ If P > ATC, the firm is making a profit  
++ If P = ATC, the firm is breaking even  
++ If P < ATC, the firm is making a loss  
+
+## business and society: government’s role in the market
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240624/image.ibzhumb3e.webp)
+
+## creativity: why just by rearranging who does what we can come up with more things
