@@ -455,3 +455,18 @@ ATC(Average Total Cost)
 ![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240624/image.ibzhumb3e.webp)
 
 ## creativity: why just by rearranging who does what we can come up with more things
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240417/image.64dn6rdf4k.webp)  
+
+**Comparative advantage:** The ability of an individual, a firm, or a country to produce a good or service at a **lower opportunity cost** than competitors.  
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240417/image.3d4kyoybov.webp)  
+USA    
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240417/image.1e8e8d5yys.webp)  
+without trade `Autarky`  spend 750h prodcing cell phone and 250 h producting tablets 
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240417/image.1e8e8d71fk.webp)
+
+with trade work 100h
+
+![image](https://cdn.jsdelivr.net/gh/waterkingest/picx-images-hosting@master/20240417/image.3k7su5ip6y.webp)
