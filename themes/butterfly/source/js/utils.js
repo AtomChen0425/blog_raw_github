@@ -255,7 +255,7 @@ const btf = {
       if (!btf.isHidden(i)) {
         fjGallery(i, {
           itemSelector: '.fj-gallery-item',
-          rowHeight: 220,
+          rowHeight: 400,
           gutter: 4,
           onJustify: function () {
             this.$container.style.opacity = '1'

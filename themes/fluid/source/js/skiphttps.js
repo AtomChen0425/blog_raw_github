@@ -3,7 +3,7 @@ $(document).ready(function(){
   if(document.location.protocol!= 'https:')
     {
       alert("https:"+document.location.hostname)
-      document.location.href="https:waterkingest.gitee.io";
+      document.location.href="https:atomchen0425.github.io";
     }
   else
     {

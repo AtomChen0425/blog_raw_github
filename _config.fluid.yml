@@ -573,7 +573,7 @@ post:
   # Custom content at the bottom of the post page (located above the footer)
   custom:
     enable: true
-    content: '<iframe src="https://waterkingest.gitee.io/donatepage/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>'
+    content: '<iframe src="https://atomchen0425.github.io/donatepage/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>'
 
   # 文章图片可点击放大
   # Zoom feature of images
