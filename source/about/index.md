@@ -7,7 +7,7 @@ comments: true
 ---
 # Resume
 ## Yuhang Chen
-yuhangchen0425@gmail.com | +86 18124265750 |+1 4387730826
+yuhangchen0425@gmail.com 
 
 ----
 
