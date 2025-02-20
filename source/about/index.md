@@ -3,7 +3,7 @@ title: New start!
 date: 2022-03-20 12:40:24
 layout: about
 toc: true
-comments: true
+comments: false
 ---
 # Resume
 ## Yuhang Chen
@@ -23,6 +23,18 @@ yuhangchen0425@gmail.com
 ---
 
 ## Working EXPERIENCE
+
+### May 2024 - Aug 2024
+
+<div align='right'>`Software Tester in Hypertherm` <img src="https://media.licdn.com/dms/image/v2/C4E0BAQESLlEp26VP-g/company-logo_200_200/company-logo_200_200/0/1655899546740/hypertherm_inc__logo?e=1743638400&v=beta&t=7Kzb54NQcmljPjTG6Sin2_rZ1alJBniGv4dcgSN6hXU" width="150" align='right'> </div>  
+
+**1.** Developed and automated C# test scripts for portability, and backward compatibility testing, ensuring seamless software installation, upgrading, and uninstallation across different systems.
+
+**2.** Created a tool integrated with xUnit and GitHub Actions for automated cloud server testing, with results automatically sent to Zephyr Scale.
+
+**3.** Gained hands-on experience in DevOps practices, managing CI/CD operations, and deepened understanding of software development processes.
+
+**4.** Integrated the BDD (Behavior-Driven Development) framework into the company's xUnit test framework to enhance test clarity and collaboration between technical and non-technical stakeholders.
 
 ### May 2022 - May 2023
 

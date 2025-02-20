@@ -9,6 +9,8 @@ menu:
   Categories: /categories/ || fas fa-folder-open
   Music: /music/ || fas fa-music
   Gallery: /gallery/ || fas fa-images
+  Toolbox || fas fa-toolbox:
+    Photo Tool: /Photo_Tool/ || fas fa-camera-retro
   # Secret Garden: /secret/ || fas fa-candy-cane
   # Gallery||fas fa-list:
   #   Music: /music/ || fas fa-music
