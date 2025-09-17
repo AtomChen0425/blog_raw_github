@@ -5,7 +5,8 @@ tags: ['Study','Software Engineering']
 categories: Notes
 index_img: https://m.media-amazon.com/images/I/71HiyCm3Y6L._SY522_.jpg
 cover: https://m.media-amazon.com/images/I/71HiyCm3Y6L._SY522_.jpg
-description: Quize review of Software Engineering 
+description: Quize review of Software Engineering
+hidden: true
 ---
 # Chapter 1
 + What are the essential attributes of good software?

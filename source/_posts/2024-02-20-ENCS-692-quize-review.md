@@ -6,6 +6,7 @@ categories: Notes
 index_img:
 cover:
 description: Quize review
+hidden: true
 ---
 # 2024 winter
 ## Midterm review

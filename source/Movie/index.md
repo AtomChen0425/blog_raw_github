@@ -2,7 +2,7 @@
 title: Movie Show
 date: 2024-03-09 18:56:10
 ---
-<!-- <html lang="en">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,4 +39,4 @@ date: 2024-03-09 18:56:10
         });
     </script>
 </body>
-</html> -->
+</html>
